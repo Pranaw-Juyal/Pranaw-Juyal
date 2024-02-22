@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there I am <a href="www.linkedin.com/in/pranaw-juyal">Pranaw Juyal</a> 👋 .<br>A Wannabe Web Developer .<br>Discord : ITZ BOT#8391<br>Defense Enthusiast 🙂
+Hey there I am <a href="https://www.linkedin.com/in/pranaw-juyal/" target="_blank">Pranaw Juyal</a> 👋 .<br>A Wannabe Web Developer .<br>Discord : ITZ BOT#8391<br>Defense Enthusiast 🙂
 
 
 ## 🌐 Socials:
